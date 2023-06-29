@@ -77,7 +77,7 @@ footer p {
     line-height: normal;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 768px){
     .content-container {
         display: flex;
         flex-direction: column;
